@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the popish clergy of France, to their present King Lewis XIV. Wherein is attempted an utter suppression &amp; subversion of the Protestant religion in that King's dominions and conquests. Translated into English by a person of quality, for the public benefit.</title>
+            <title>Remonstrance du clergé de France faite au Roy a Versailles le 14 septembre, 1675. English.</title>
+            <author>Catholic Church. Assemblée générale du clergé de France.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23763</idno><idno type="EEBO-CITATION">99889554</idno>
+  <idno type="VID">201924</idno>
+  <idno type="EEBO-PROQUEST">2240904975</idno>
+  
+            <idno type="OCLC"> 10603798</idno>
+            <idno type="STC">Wing G2025A</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.88*.[14]</idno>
+            <idno type="STC">ESTC R28473</idno>
+            <idno type="PROQUEST">ocm99889554</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889554e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201924)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C30:1[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the popish clergy of France, to their present King Lewis XIV. Wherein is attempted an utter suppression &amp; subversion of the Protestant religion in that King's dominions and conquests. Translated into English by a person of quality, for the public benefit.</title>
+                  <title>Remonstrance du clergé de France faite au Roy a Versailles le 14 septembre, 1675. English.</title>
+                  <author>Catholic Church. Assemblée générale du clergé de France.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome at the Gun in St. Paul's Church-yard.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Remonstrance du clergé de France faite au Roy a Versailles le 14 septembre, 1675.</note>
+                  <note>Includes translation of the original colophon: Printed at Paris: By Frederick Leonard, printer to the King and the clergy of France, in James Street at the Crown of Venice. MDCLXXV. With the King's priviledge.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  France --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Protestantism --  Controversial literature --  Catholic authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:201924:1"/>
+            <p>A REMONSTRANCE OF THE <hi>Popish Clergy of France,</hi> To their present KING LEWIS XIV.</p>
+            <p>Wherein is attempted an utter SUPPRESSION &amp; SUBVERSION OF THE Protestant Religion IN THAT King's Dominions and Conquests.</p>
+            <p>Translated into English By a PERSON of QUALITY, For the Public benefit.</p>
+            <figure>
+               <figDesc>woodcut depicting a crowned cannon and Henry Brome's initials'</figDesc>
+               <p>H B</p>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Henry Brome</hi> at the Gun in St. <hi>Paul</hi>'s Church-yard. 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:201924:2"/>
+            <pb n="3" facs="tcp:201924:2"/>
+            <head>The Remonstrance of the Clergy of <hi>France,</hi> made to the King the 17. of <hi>August</hi> 1675. by the most Illustrious and most Reverend <hi>Jean Baptiste Adhemar de Monteil de Grig<g ref="char:EOLhyphen"/>nan,</hi> Lord Archbishop of <hi>Claudiopolis,</hi> Coadjutor of the Arch<g ref="char:EOLhyphen"/>bishoprick of <hi>Arles,</hi> and Councellor to the King in his Councils, assisted by the Lords, Archbishops, Bishops, and other Deputies of the General Assembly now held at St. <hi>Germain en Laye.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesty may peradventure by surpriz'd to find, that after all those great and advantageous things, your Majesty has already done for the benefit of the Church, this same Church should again this day, by her principal Ministers, pour out her Re<g ref="char:EOLhyphen"/>monstrances and Complaints at the foot of your Royal Throne, and implore your Sovereign Au<g ref="char:EOLhyphen"/>thority against the attempts of those who are Enemies to Religion.</p>
+            <p>If, Sir, we should here suffer our selves to be wholly govern'd by the motions of our own hearts, we should then only raise our voices to make the World echo with the many and great acknowledgements the Church of <hi>France</hi> so strictly owes to your Majesties Piety and Vertue: But her immediate and pressing necessities oppose that Inclination, and compel us for some short space to suspend the Transports of our Gra<g ref="char:EOLhyphen"/>titude, that we may represent to your Majesty, what you have yet re<g ref="char:EOLhyphen"/>maining to do for the entire Re-establishment of Religion, wherein the principal point of our happiness does consist.</p>
+            <p>And that which does most encourage and embolden us to satisfie this pressing duty, is, that we are assur'd we have the honour to speak to a King already prepossest in our favour; and although the hearts of Kings, according to the Oracle of the Scipture, are inscrutable, we nevertheless very well discern in that of your Majesty, your reli<g ref="char:EOLhyphen"/>gious intentions for the Church. Piety inhabits that great, that magnanimous heart, an interiour Advocate, that pleads for us much better than we can for our selves.</p>
+            <p>Besides, Sir, what is past is a sufficient Warranty to us for what is to come, the glorious Testimonies that Religion has, upon all oc<g ref="char:EOLhyphen"/>casions, receiv'd of your Majesties Christian zeal, the Demoli<g ref="char:EOLhyphen"/>tion of so many Temples that Violence had erected to the Idol of Errour; the suppression of so many Colledges, which were the Se<g ref="char:EOLhyphen"/>minaries of Perdition, wherein they infected our over credulous youth with the poyson of Untruth, the withdrawing your Majesties
+<pb n="4" facs="tcp:201924:3"/>Royal Grace and Favour; and those other ways mixt with severity and sweetness, contriv'd by your own Piety and Wisdom to reduce those straying Souls into the Paths of Salvation: All these great ad<g ref="char:EOLhyphen"/>vantages, which ought to be Objects of an Eternal Gratitude to the Church, are to us almost certain presages, that your Majesty will finish what you have so happily begun, and give the last stroke to this monstrous <hi>Hydra</hi> of Heresie.</p>
+            <p>Your Majesty, Sir, may easily perfect the Work, in doing that for the particular good of Religion, which you have already done in regulating the Administration of publick Justice. You have, Sir, acquired to your self the praise and admiration of Forreign Nati<g ref="char:EOLhyphen"/>ons, as well as those of your own People, by the Reformation of the Politic Laws of your Kingdom: Attract, Sir, also the Bene<g ref="char:EOLhyphen"/>dictions of Heaven upon your Person and Posterity, by reforming those Edicts and Declarations which sole Necessity, and the disor<g ref="char:EOLhyphen"/>der of Affairs have wrested from the hands of the King's your Pre<g ref="char:EOLhyphen"/>decessors. And there are some also crept in even in these later times, which require you Majesties Application, to which the ma<g ref="char:EOLhyphen"/>lignity of Heretics gives so false colour, and so many pernitious Interpretations, that we cannot avoid preferring our submissive Complaints, and humbly to apply our selves to your Majesty for redress.</p>
+            <p>If we will believe these Enemies of our Religion, we are not only not permitted to endeavour the Conversion of Children not yet arriv'd to fourteen years of age; but are also forbid to receive them into the bosom of the Church, when inspir'd by God himself to desire it. But these wilfully blind People do not see, that there are things in the Order of the Church, which cannot properly be the business of Humane Regulation, forasmuch as they are already regulated by the express, either natural or positive Laws of God: They do not discern that this is to offer violence to your Majesties Zeal, Piety and Justice. For were it not in fine, to endeavour to prescribe Limits to the Divine Mercy, and to subject the Grace of the Almighty to the Authority of Humane Laws? Our God is no more a respecter of Ages, than of Persons, saith St. <hi>Cyprian,</hi> his Spirit blows where and when it pleases him, without being subject either to time, or the Laws of men; and if it be a Crime worthy the severest Chastisement from God, to shut a man's eyes against the Light of Truth, and to resist the Divine Attractions of Grace, is it possible, without being criminal, to shut the doors of the Church against those, who by this same Grace are brought unto it? We are, as well as St. <hi>Paul</hi> was, Debtors to all, to Greeks and Barbarians, to the wise, and to the ignorant; and should we deny the Bread of the Word of Life to poor Children, who desire to be instructed by us! Should we see these innocent Souls, who are the most perfect Images of the Son of God, and the true Inheritors of the Kingdom of Heaven, perish before our eyes! The Saviour of the World commands, that such be suffered to come unto him; and shall it not be lawful for us to take them by the hand? According to these false Maxims of the Heretics, our duty should be oppos'd against our duty, and we should, Sir, find our selves reduced to the
+<pb n="5" facs="tcp:201924:3"/>sad necessity either of violating the Laws of God, to observe yours; or of violating yours, to observe the Laws of God. But we are far from believing, that this can be comformable to the intentions of the most just and clear sighted of all Kings: The Rules of Christianity and Religion are too deep engraven in your Majesties Royal heart, to suf<g ref="char:EOLhyphen"/>fer such dangerous interpretations as these, and to clear all manner of doubt in so important an affair.</p>
+            <p>We are formerly permitted to go visit the sick of the pretended Reform'd Religion, without being call'd; and we found by happy ex<g ref="char:EOLhyphen"/>perience, that many who all the the time of their lives, had been obstinate Confederates with Errour, became at their death faithful Confessors of the Truth: The sickness that weakned their Bodies, serv'd to fortifie their Faith; disabus'd with the vanities of the World, they more Willingly gave ear to the admonitions of Conscience; the approaches of death, dissipated the illusions of life; and whether it were that Grace was no more strong, or that their hearts were grown more flexible to Instruction, their souls, even when half sepa<g ref="char:EOLhyphen"/>rated from the body, began with pleasure to relish Christian Verities. But how go matters now since we have been forbid to visit these sick persons? what desires soever these poor Wretches have to recon<g ref="char:EOLhyphen"/>cile themselves to God and the Church, how importunate soever they are to have Priest, who is that Charitable man in the Gospel whose assistance they stand in need of, to plunge them into the heal<g ref="char:EOLhyphen"/>ing Pool of Repentance? Those about them oppose these just desires, not one will do that good Office for them, and all their Friends conspire to stifle these good Dispositions, or to render them fruitless; and pre<g ref="char:EOLhyphen"/>tending them to be but idle ravings of an Imagination disordered by the violence of the Disease, with all possible caution and endeavour, hinder the Church from being made acquainted with it. What can there be then, Sir, more just to remedy so criminal a Vexation, than to suffer the Pastors of the Church, unsent for, to go and visit these sick persons, to the end they may truly discover their real Inclination? Is it not to allow those of the Religion a sufficient Toleration, and full liberty of Conscience, seeing it is to make them absolute Masters of their own free choice even to death, and to take order, that Parents and Relations may not exercise over them the most insolent and cruel of all Tyrannies, in taking this Liberty from them?</p>
+            <p>But being, Sir, it would be the greatest rudeness and injustice, too much to abuse your Majesties more precious leisure, we shall pass over the other grievances we have to represent, in silence; of which also the Commissioners your Majesty has graciously appointed to be pre<g ref="char:EOLhyphen"/>sent at our Conferences, may give a more full account: But, Sir, the goodness of God prompts us to renew one most humble request; a Suit that we have often preferr'd, but shall never cease to sigh, till your Majesty shall do us the grace to grant it. Which is by a solemn Law, and that under very severe penalties, to forbid all your Catho<g ref="char:EOLhyphen"/>lick Subjects to change their Religion, seeing that this pretended Li<g ref="char:EOLhyphen"/>berty of Conscience is look'd upon by all the Catholics, as a Preci<g ref="char:EOLhyphen"/>pice set before their feet, as a Pit-fall made to trap their simplicity, and as a door set open to all manner of Licenciousness. Take from them, Sir, take from them this fatal Liberty, and settle them in a blessed necessity of being always faithful. Such a Law as this cannot
+<pb n="6" facs="tcp:201924:4"/>possibly interfere with the Edicts that permit Liberty of Conscience, forasmuch as those Edicts having only respect to them, by whom they were with the greatest importunity solicited, and for whom alone they were made, can no ways comprehend the Catholics, by whom they have ever been loath'd and abhorr'd.</p>
+            <p>Besides, Sir, if these of the Reform'd Religion are tolerated to continue in their false Belief, why shall not the Catholics be permit<g ref="char:EOLhyphen"/>ted to bind themselves fast and firm to the true Religion, by all the Ties that may prevent the inconstancy of Humane Fancy? The Law, Sir, that we humbly propose to your Majesty is the strongest of all those Ties, and in imposing it upon your Catholic Subjects, your Majesty will not fortifie their own resolutions, yield to their own desires, authorize their own wishes, and fasten, as I may say, the sa<g ref="char:EOLhyphen"/>cred Knots by which they desire irrevocably to bind themselves to the Faith of the Holy Church: And we have reason, Sir, to hope your Majesty will not deny them a means they intreat from you of assu<g ref="char:EOLhyphen"/>ring their Salvation; or rather that you will not deny it to God Al<g ref="char:EOLhyphen"/>mighty, who this day by my mouth requires it at your hands.</p>
+            <p>What Sir, can you deny him, after all the Prosperities he had showr'd upon your head? What Success has he not bless'd your Arms withal, when animated by your Royal Presence? It appears as if your Ene<g ref="char:EOLhyphen"/>mies were multiplied to no other end, but only to multiply your Victories. All your Campagns have been signal, either by the taking of some considerable Place, or some Province, and your Majesty has so accustom'd us to see nothing in the History of your Reign, but Victory upon Victory, and Conquest upon Conquest; that having made us to forget that the chance of Arms is uncertain, it now appears strange, that it can be so much as once contrary to us.</p>
+            <p>Is it not to God that you stand oblig'd for these glorious Successes? Yes doubtless, Sir, it is; and it now remains, that you give the last and highest Testimony of your Acknowledgment, by making use of your Authority for the utter Extirpation of Heresie.</p>
+            <p>Your Majesty has done nothing hitherto for the glory of your Name, that can parallel the Renown of such an Enterprize. Actions that point at Religion, carry with them a Character of Glory, that other Exploits, how Heroic soever, can pretend no Title to: That which is enough to create a Hero in War, is not sufficient to make a Hero in Religion: The Re-establishment of Altars in a conquer'd Coun<g ref="char:EOLhyphen"/>try, is more glorious than the Conquest it self: Catholics restor'd to liberty, do better adorn a Triumph, than conquer'd E<gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>s, and the Titles of Protector of the Faith, and Defendor of the Church, sound much better in christian ears, than those of Conqueror and Invin<g ref="char:EOLhyphen"/>cible.</p>
+            <p>O how happy had the Church been, if the Jealousie of your Ene<g ref="char:EOLhyphen"/>mies would have suffered your Majesties zeal to have acted at its own liberty and full extent! We should then, Sir, no more need to petiti<g ref="char:EOLhyphen"/>on you in the behalf of Religion: Your Majesty had prevented our de<g ref="char:EOLhyphen"/>sires, and even out-done our greatest expectation. Your Enemies, 'tis true, have attempted to thwart your great and pious designs; but, Sir, these weak oppositions, ought only to serve to augment the force of your zeal. Let these Maligners of your Glory, and the Prosperi<g ref="char:EOLhyphen"/>ty of the Church, learn to their cost, to know, that you can at the
+<pb n="7" facs="tcp:201924:4"/>same time both sight for your Dominions, and labour for Religion; that like those Illustrious Restaurators of the Old <hi>Jerusalem,</hi> you can hold your Sword in one hand, and build the Walls of the Holy City with the other. That is to say, that you can at once both make your Enemies feel the power of your Arms, and the Enemies of God feel the power of your Laws.</p>
+            <p>It is, 'tis true, sometimes an Heroic Vertue in those who command the Reins of Empire, and to whom all things ought to be submitted, themselves to give place to time, and to certain Conjunctures that hap<g ref="char:EOLhyphen"/>pen in affairs: But, Sir, here the Cause of God is only in question; con<g ref="char:EOLhyphen"/>sult nothing but your heart in this case, resign your self up to the Conduct of your own zeal, do as your Piety shall inspire you; the zeal of the House of God has sometimes holy Transports, preferable to that equal temper, which is the perfection of all other Vertues; and the same God who is the mover of those religious Sallies, is War<g ref="char:EOLhyphen"/>ranty for their Event.</p>
+            <p>What ought you not to expect from that transcendent Genius, that raises you so high above the rest of men? What ought you not to ex<g ref="char:EOLhyphen"/>pect from that Supreme Valour, the too liberal Fountain, 'tis true, of our fears and apprehensions for your Majesties safety; but that ren<g ref="char:EOLhyphen"/>ders you, Sir, the terror of your Enemies.</p>
+            <p>What glory will it be to your Majesty, when future Ages shall know, that if the Kingdom of <hi>France,</hi> happy under your Reign, has with<g ref="char:EOLhyphen"/>drawn and pull'd in its Frontiers on every side, the Church more hap<g ref="char:EOLhyphen"/>py has extended hers into the heart of <hi>France.</hi> Posterity will then know, that if the felicity of <hi>Augustus,</hi> occasioned the felicity of his Domi<g ref="char:EOLhyphen"/>nions, the felicity of <hi>Lewis</hi> the Great, has created the felicity both of his Kingdom and the Church; and they will then also know, that as this Spouse of Jesus Christ has delivered you in Baptism from the servitude of sin, you also delivered her in your Kingdom, from the oppression of Heresie; that as she admits you to the participation of her Sacraments, you have admitted her to a share in your Victories; and in a word, that as she daily sacrifices upon her Altars whatever she has of more precious and adorable for the Conservation of your sacred Person, you have also sacrific'd your most precious time, and best endeavours, to procure her all the advantages she either can, or ought to expect from a most Christian Prince.</p>
+            <p>Your Majesty then, Sir, sees your self engag'd both in Piety to God, and upon the account of your own particular Glory, to support the Interest of Religion. What, Sir, can we more desire? We have nothing more to beg of you, in order to the Gratification of our desires for the Prosperity of the Church, and shall never think we hazard the Cause of God, when whe absolutely resign our selves with an entire confidence to your Majesties perfect Wisdom, and Power<g ref="char:EOLhyphen"/>ful Protection.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Paris:</hi> By <hi>Frederick Leonard,</hi> Printer to the King and the Clergy of <hi>France,</hi> in <hi>James Street</hi> at the Crown of <hi>Venice.</hi> MDCLXXV.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With the Kings Priviledge.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>
